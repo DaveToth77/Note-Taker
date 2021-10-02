@@ -16,10 +16,12 @@
 <a href="#contact">Contact Info</a> •
 <a href="#-support">🤝 Support</a> 
 </p>
-<img width="1741" alt="Screen Shot 2021-09-18 at 12 08 09 PM" src="https://user-images.githubusercontent.com/85111342/133895207-4df18884-b5a8-48b5-9568-d2b9f3eb7fa8.png">
+
+![Screen Shot 2021-10-02 at 11 49 46 AM](https://user-images.githubusercontent.com/85111342/135723627-72ad036f-b717-4fc3-a03b-922565ef2d07.png)
+
 
 ## Usage Information
-Visit
+Visit [Note-Taker-Pro](https://peaceful-gorge-63173.herokuapp.com/) to get started. Add a task and description and tap the save icon at the top left to save. You can view past notes by clicking on them. When a task is complete, click on the trash can to delete.
 
 ## Contribution Guidelines
 To contribute add an issue or enter a pull request.
